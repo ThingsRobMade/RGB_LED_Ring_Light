@@ -1,4 +1,4 @@
-#Lord of the Rign Lights!
+#Lord of the Ring Lights!
 ==========================
 
 ![led_camera_ring v40](https://user-images.githubusercontent.com/3188387/52254265-2291dc00-28ca-11e9-8788-9ce7375a9071.png)
